@@ -2,7 +2,7 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 https://arexhepi-product-preview.netlify.app/
 
 Thanks for checking out this front-end coding challenge.
 
